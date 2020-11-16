@@ -321,7 +321,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		background: #B03500 url(images/overlay.png) repeat;
+		background-image: url("images/banner.jpg");
 	}
 
 	#header
@@ -336,6 +336,7 @@
 	{
 		padding: 5em 0em;
 		text-align: center;
+		
 	}
 	
 	#logo h1
@@ -367,6 +368,7 @@
 		font-size: 4em;
 		color: rgba(255,255,255,1);
 	}
+
 	
 	
 
@@ -512,6 +514,17 @@
 	#footer .title span
 	{
 		color: rgba(255,255,255,0.4);
+	}
+
+	.contact > li > a > img
+	{
+		max-width: 4rem;
+		height: auto;
+	}
+	.contact > li
+	{
+		margin-left: 3px;
+		margin-right: 3px;
 	}
 
 /*********************************************************************************/
