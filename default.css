@@ -629,4 +629,10 @@
 	{
 		float: right;
 	}
-	
+	/* 추가해야할 css
+	img.alignleft {
+	float: left;
+	margin-top: 8px;
+	margin-right: 50px;
+}
+	*/
