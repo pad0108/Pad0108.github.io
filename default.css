@@ -476,6 +476,22 @@
 	{
 		color: rgba(255,255,255,0.6);
 	}
+	#welcome .img 
+	{
+	float: left;
+	margin-top: 8px;
+	margin-right: 50px;
+	}
+	#welcome .divimg
+	{
+		float: left; 
+		width: 30%;
+	}
+	#welcome .divp
+	{
+		float: right; 
+		width: 70%;
+	}
 
 /*********************************************************************************/
 /* Page                                                                          */
@@ -629,10 +645,4 @@
 	{
 		float: right;
 	}
-	/* 추가해야할 css
-	img.alignleft {
-	float: left;
-	margin-top: 8px;
-	margin-right: 50px;
-}
-	*/
+
